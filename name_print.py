@@ -1,2 +1,3 @@
 name = 'mani kumar'
-print(name)
+full_name = 'phanithapu'
+print(name, full_name)
